@@ -1,0 +1,62 @@
+[
+    {
+        "parkingBlock": "A1",
+        "hilightColor": "#ff0000",
+        "apartment": "東棟",
+        "floor": "1F",
+        "block": "A1",
+        "imageUrlPath": "./asset/images/parking_lot_map.png",
+        "coordinates": [
+            {"x": 25, "y": 432},
+            {"x": 125, "y": 432},
+            {"x": 125, "y": 365},
+            {"x": 25, "y": 365}
+        ]
+    },
+    {
+        "parkingBlock": "B1",
+        "hilightColor": "#0000ff",
+        "apartment": "東棟",
+        "floor": "1F",
+        "block": "B1",
+        "imageUrlPath": "./asset/images/parking_lot_map.png",
+        "coordinates": [
+            {"x": 150, "y": 432},
+            {"x": 250, "y": 432},
+            {"x": 250, "y": 365},
+            {"x": 150, "y": 365}
+
+
+        ]
+    },
+    {
+        "parkingBlock": "C1",
+        "hilightColor": "#008000",
+        "apartment": "東棟",
+        "floor": "1F",
+        "block": "C1",
+        "imageUrlPath": "./asset/images/parking_lot_map.png",
+        "coordinates": [
+            {"x": 275, "y": 432},
+            {"x": 375, "y": 432},
+            {"x": 375, "y": 365},
+            {"x": 275, "y": 365}
+        ]
+    },
+    {
+        "parkingBlock": "D1",
+        "hilightColor": "#9E76B4",
+        "apartment": "多角形",
+        "floor": "を",
+        "block": "表示させたかった",
+        "imageUrlPath": "./asset/images/parking_lot_map.png",
+        "coordinates": [
+            {"x": 375, "y": 295},
+            {"x": 450, "y": 295},
+            {"x": 450, "y": 118},
+            {"x": 400, "y": 118},
+            {"x": 400, "y": 158},
+            {"x": 375, "y": 158}
+        ]
+    }
+]

@@ -1,0 +1,98 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4;
+}
+
+header {
+  background-color: #333;
+  color: #fff;
+  text-align: left;
+  padding: 2px;
+}
+
+.menu-btn {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  font-size: 24px;
+  cursor: pointer;
+}
+
+.Parking-font {
+  text-align: center;
+  font-size: 18px;
+  position: relative;
+}
+
+.Parking-destination-font {
+  text-align: center;
+  font-size: 50px;
+  color: #ff0000;
+  position: relative;
+  font-weight: bold;
+}
+
+section {
+  padding: 20px;
+}
+
+footer {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 10px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+/* 画像のスタイル */
+.responsive-image {
+  max-width: 100%;
+  height: auto;
+}
+
+.container {
+  position: relative;
+  width: 100%;
+  max-width: 800px; /* 画像が横幅800pxまで表示されるように制限 */
+  margin: 0 auto; /* 画面中央に配置 */
+}
+
+.background-image,
+.overlay-image {
+  width: 100%;
+  height: auto;
+  display: block; /* 不要な余白を削除するために追加 */
+}
+
+.overlay-image {
+  position: absolute;
+  top: 30%; /* 30%の位置に配置 */
+  left: 25%; /* 25%の位置に配置 */
+  width: 10%;
+}
+
+.overlay-shape {
+  position: absolute;
+  top: 3%; /* 画像の上端からの位置を10%に設定 */
+  left: 7%; /* 画像の左端からの位置を10%に設定 */
+  width: 20%; /* 画像の幅の20%に設定 */
+  height: 20%; /* 画像の高さの20%に設定 */
+  background-color: rgba(255, 0, 0, 0.5); /* 半透明の赤色 */
+  border-radius: 50%; /* 丸い形状 */
+}
+
+#map {
+    height: 40vh;
+    width: 100%;
+}
+
+.grid-label {
+    color: black;
+    font-size: 12px;
+    font-weight: bold;
+    text-shadow: 1px 1px white;
+}
