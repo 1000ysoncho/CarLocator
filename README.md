@@ -97,5 +97,5 @@ asset\images配下に画像を配置します
 
 ## About Me
 + X:[1000ysoncho](https://x.com/1000ysoncho)
-+ Email: muraosakobo@google.com
++ Email: muraosakobo@gmail.com
 + profile: [TMWorks](https://profile.ikuratarako.net/)
