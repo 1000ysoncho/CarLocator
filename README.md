@@ -93,7 +93,7 @@ asset\images配下に画像を配置します
 導入に際しての問い合わせやご相談、またシステムへの改善提案などは下記までお願いします。<br>
 ご要望に応じて、柔軟にご対応しています（サブスクリプション形式での提供・構築代行・コンサルティング等）
 
-+ Email: muraosakobo@google.com
++ Email: muraosakobo@gmail.com
 
 ## About Me
 + X:[1000ysoncho](https://x.com/1000ysoncho)
